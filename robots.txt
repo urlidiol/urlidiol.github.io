@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urlidiol.github.io/sitemap.html.gz
+Sitemap: https://urlidiol.github.io/app/sitemap.html.gz
+Sitemap: https://urlidiol.github.io/assets/sitemap.html.gz
+Sitemap: https://urlidiol.github.io/css/sitemap.html.gz
+Sitemap: https://urlidiol.github.io/includes/sitemap.html.gz
+Sitemap: https://urlidiol.github.io/item/sitemap.html.gz
+Sitemap: https://urlidiol.github.io/src/sitemap.html.gz
